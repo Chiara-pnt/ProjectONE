@@ -7,3 +7,4 @@ Our
 project
 
 change
+This is a pretty text.
