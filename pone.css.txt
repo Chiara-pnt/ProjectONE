@@ -1,2 +1,4 @@
 blaaa
 newblabla
+
+The background is black.
